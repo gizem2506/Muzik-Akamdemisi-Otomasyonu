@@ -1,0 +1,34 @@
+C:\Users\gizem\Desktop\Müzik Akamdemisi Otomasyonu\bin\Debug\Müzik Akamdemisi Otomasyonu.exe.config
+C:\Users\gizem\Desktop\Müzik Akamdemisi Otomasyonu\bin\Debug\Müzik Akamdemisi Otomasyonu.exe
+C:\Users\gizem\Desktop\Müzik Akamdemisi Otomasyonu\bin\Debug\Müzik Akamdemisi Otomasyonu.pdb
+C:\Users\gizem\Desktop\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik Akamdemisi Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\gizem\Desktop\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik_Akamdemisi_Otomasyonu.Properties.Resources.resources
+C:\Users\gizem\Desktop\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik Akamdemisi Otomasyonu.csproj.GenerateResource.cache
+C:\Users\gizem\Desktop\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik Akamdemisi Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\gizem\Desktop\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik Akamdemisi Otomasyonu.exe
+C:\Users\gizem\Desktop\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik Akamdemisi Otomasyonu.pdb
+C:\Users\gizem\Desktop\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik_Akamdemisi_Otomasyonu.Brans.resources
+C:\Users\gizem\Desktop\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik_Akamdemisi_Otomasyonu.Splash.resources
+C:\Users\gizem\Desktop\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik_Akamdemisi_Otomasyonu.Anasayfa.resources
+C:\Users\gizem\Desktop\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik_Akamdemisi_Otomasyonu.Ogrenciler.resources
+C:\Users\gizem\Desktop\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik_Akamdemisi_Otomasyonu.Ogretmenler.resources
+C:\Users\gizem\Desktop\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik_Akamdemisi_Otomasyonu.SınıflarDersler.resources
+C:\Users\gizem\Desktop\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik_Akamdemisi_Otomasyonu.Kurs.resources
+C:\Users\gizem\Desktop\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik_Akamdemisi_Otomasyonu.SifreEkranı.resources
+C:\Users\gizem\Desktop\19010207020GizemAltay\Müzik Akamdemisi Otomasyonu\bin\Debug\Müzik Akamdemisi Otomasyonu.exe.config
+C:\Users\gizem\Desktop\19010207020GizemAltay\Müzik Akamdemisi Otomasyonu\bin\Debug\Müzik Akamdemisi Otomasyonu.exe
+C:\Users\gizem\Desktop\19010207020GizemAltay\Müzik Akamdemisi Otomasyonu\bin\Debug\Müzik Akamdemisi Otomasyonu.pdb
+C:\Users\gizem\Desktop\19010207020GizemAltay\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik Akamdemisi Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\gizem\Desktop\19010207020GizemAltay\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik_Akamdemisi_Otomasyonu.Anasayfa.resources
+C:\Users\gizem\Desktop\19010207020GizemAltay\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik_Akamdemisi_Otomasyonu.Brans.resources
+C:\Users\gizem\Desktop\19010207020GizemAltay\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik_Akamdemisi_Otomasyonu.Kurs.resources
+C:\Users\gizem\Desktop\19010207020GizemAltay\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik_Akamdemisi_Otomasyonu.Ogrenciler.resources
+C:\Users\gizem\Desktop\19010207020GizemAltay\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik_Akamdemisi_Otomasyonu.Ogretmenler.resources
+C:\Users\gizem\Desktop\19010207020GizemAltay\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik_Akamdemisi_Otomasyonu.Properties.Resources.resources
+C:\Users\gizem\Desktop\19010207020GizemAltay\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik_Akamdemisi_Otomasyonu.SifreEkranı.resources
+C:\Users\gizem\Desktop\19010207020GizemAltay\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik_Akamdemisi_Otomasyonu.Splash.resources
+C:\Users\gizem\Desktop\19010207020GizemAltay\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik_Akamdemisi_Otomasyonu.SınıflarDersler.resources
+C:\Users\gizem\Desktop\19010207020GizemAltay\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik Akamdemisi Otomasyonu.csproj.GenerateResource.cache
+C:\Users\gizem\Desktop\19010207020GizemAltay\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik Akamdemisi Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\gizem\Desktop\19010207020GizemAltay\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik Akamdemisi Otomasyonu.exe
+C:\Users\gizem\Desktop\19010207020GizemAltay\Müzik Akamdemisi Otomasyonu\obj\Debug\Müzik Akamdemisi Otomasyonu.pdb
